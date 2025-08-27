@@ -57,9 +57,10 @@ I enjoy solving data challenges, contributing to open-source, and continuously e
 
 ## 📊 GitHub Stats & Streak  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hameed980&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hameed980&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hameed980&layout=compact&theme=tokyonight)  
+
 
 ---
 
