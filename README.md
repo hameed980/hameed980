@@ -1,9 +1,9 @@
 # Hey, I'm Abdul Hameed! 👋  
 
 ## 🚀 About Me  
-I’m a **Cloud Data Engineer**  building scalable data pipelines, automating workflows, and designing cloud-based solutions.  
-With hands-on experience in **AWS, Apache Kafka, Airflow, Docker, and Snowflake**, I specialize in turning raw, messy data into clean, meaningful insights.  
-I enjoy solving data challenges, contributing to open-source, and continuously expanding my technical expertise.  
+I’m a Cloud Data Engineer focused on building scalable data pipelines, automating workflows, and designing cloud-based solutions.
+I work with AWS, Apache Kafka, Airflow, Docker, and Snowflake to transform raw data into reliable, actionable insights.
+I have hands-on experience in ETL pipelines, data modeling, and cloud infrastructure, and I’m always improving my expertise in modern data engineering tools and practices.  
 
 ---
 
