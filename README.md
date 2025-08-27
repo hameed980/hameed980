@@ -1,65 +1,80 @@
-Hey ,<img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/51e7f0b4-fe8f-4087-b358-cd76781a7a5a" /> I'm Abdul Hameed!
-
----
+# Hey, I'm Abdul Hameed! 👋  
 
 ## 🚀 About Me  
-I'm an aspiring **Data Engineer** with a passion for turning messy data into meaningful insights.  
-Currently building my skills and portfolio to break into the world of big data, automation, and scalable pipelines.
+I’m a **Cloud Data Engineer**  building scalable data pipelines, automating workflows, and designing cloud-based solutions.  
+With hands-on experience in **AWS, Apache Kafka, Airflow, Docker, and Snowflake**, I specialize in turning raw, messy data into clean, meaningful insights.  
+I enjoy solving data challenges, contributing to open-source, and continuously expanding my technical expertise.  
 
 ---
 
-## 📚 What I'm Learning  
-- **AWS Services** – S3, EC2, IAM, Lambda, and more  
-- **Apache Airflow** – For data pipeline orchestration  
-- **Apache Kafka** – For building real-time data pipelines  
-- **Docker** – Containerizing my applications  
-- **Shell & Bash scripting** – Automating workflows
+## 🛠️ Technical Skills  
 
----
-
-## 🛠️ Technical Skills
-
-**Languages & Tools:**  
-- `Python`, `SQL`, `Shell Scripting`, `Bash`
+**Programming & Scripting:**  
+`Python`, `SQL`, `Shell Scripting`, `Bash`  
 
 **Libraries & Frameworks:**  
-- `Pandas`, `NumPy`, `BeautifulSoup`
+`Pandas`, `NumPy`, `Matplotlib`, `BeautifulSoup`  
 
-**Data Engineering Tools (Learning):**  
-- `Apache Airflow`, `Apache Kafka`, `Docker`
+**Data Engineering Tools:**  
+`Apache Airflow`, `Apache Kafka`, `Docker`, `PySpark`, `Snowflake`  
 
-**Cloud Platform (Learning):**  
-- `Amazon Web Services (AWS)`
+**Cloud Platforms:**  
+- **Amazon Web Services (AWS):** S3, EC2, IAM, Lambda, Glue, Athena, Redshift, CloudWatch, EventBridge  
+- **Azure (Basic):** Data Factory, SQL Database, Data Lake  
 
----
-
-## 💡 Projects I've Built  
-- **ETL Pipeline – Wikipedia to SQLite & CSV**  
-  Scraped bank market cap data using `BeautifulSoup`, transformed it using exchange rates, and stored it in SQLite and CSV.
-
--  **Retail Sales Data Warehouse (ETL + SQL)**  
-  Designed a Star Schema for retail data, used `Python` and `pyodbc` to load sales data into **SQL Server**, and wrote optimized SQL queries to analyze KPIs like revenue, 
-  customer trends, and product performance.
-
-- **SQL + Python ETL Project**  
-  Loaded Kaggle data into `SQL Server`, cleaned and analyzed using `Pandas`.
-
-> More projects in progress... stay tuned!
+**Version Control & CI/CD:**  
+`Git`, `GitHub Actions`  
 
 ---
 
-## 🎯 Goals  
-- Become a **Good Data Engineer**  
-- Work on real-world data projects using **Python, SQL, AWS, and Airflow**  
-- Contribute to open-source data engineering tools  
-- Build a strong portfolio and community network  
+## 📜 Certifications  
+- ✅ **Data Engineering (Snowflake)**  
+- ✅ **Data Lake (Snowflake)**  
+- ✅ **Data Warehousing (Snowflake)**  
+- ✅ **Cloud Data Engineering Program – Saylani Mass IT Training, Karachi**  
+   *(Python, SQL, Airflow, Kafka, Snowflake, AWS)*  
 
 ---
 
-## 🤝 Let's Connect  
-- 💼 LinkedIn:  https://www.linkedin.com/in/abdul-hameed-088921296/
-- 🐍 GitHub:   https://github.com/hameed980
+## 💡 Projects  
+
+- **🔹 Real-Time Stock Market Data with Kafka & AWS**  
+  - Simulated real-time stock data streams using Python and Apache Kafka on EC2  
+  - Stored and transformed streaming data in AWS S3  
+  - Queried real-time data using AWS Glue and Athena  
+
+- **🔹 ETL Pipeline – Kaggle to SQL Server**  
+  - Cleaned and transformed large Kaggle datasets using Python (Pandas)  
+  - Loaded structured data into Microsoft SQL Server using `pyodbc`  
+  - Used T-SQL to extract insights and built interactive Power BI dashboards  
+
+- **🔹 Snowflake-S3-Lambda-EventBridge-Rule**  
+  - Built a serverless pipeline with AWS Lambda, S3, and EventBridge  
+  - Automated data triggers and ingestion into Snowflake  
+  - Designed for cloud scalability and event-driven processing  
+
+---
+
+## 📊 GitHub Stats & Streak  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hameed980&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hameed980&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hameed980&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-hameed-088921296/)  
+- 🐍 [GitHub](https://github.com/hameed980)  
+- 📧 **Gmail:** [abdulhameedak247@gmail.com](mailto:abdulhameedak247@gmail.com)  
 
 Thanks for stopping by! 🌟  
-Feel free to star ⭐ my projects and follow along on my data journey.
-
+Don’t forget to ⭐ my projects and follow along on my **Data Engineering journey** 🚀  
