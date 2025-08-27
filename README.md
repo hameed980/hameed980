@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abdul Hameed!
+Hey ,<img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/51e7f0b4-fe8f-4087-b358-cd76781a7a5a" /> I'm Abdul Hameed!
 
 ---
 
