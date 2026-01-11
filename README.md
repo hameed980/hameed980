@@ -68,13 +68,18 @@ I specialize in transforming raw data into **actionable insights** using modern 
 
 ---
 
-## 📊 GitHub Activity & Streaks  
+<h2>📊 GitHub Activity & Streaks</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hameed980&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=hameed980&theme=tokyonight" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hameed980&show_icons=true&theme=tokyonight)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hameed980&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=hameed980&show_icons=true&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hameed980&layout=compact&theme=tokyonight" />
+
 
 
 ---
@@ -86,5 +91,5 @@ I specialize in transforming raw data into **actionable insights** using modern 
 - 📧 **Gmail:** [abdulhameedak247@gmail.com](mailto:abdulhameedak247@gmail.com)
 
 ⭐ If you like my work, consider **starring repositories** and following my **Data Engineering journey**
-![Test](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
