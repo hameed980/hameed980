@@ -70,9 +70,12 @@ I specialize in transforming raw data into **actionable insights** using modern 
 
 ## 📊 GitHub Activity & Streaks  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hameed980&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hameed980&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hameed980&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hameed980&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hameed980&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hameed980&layout=compact&theme=tokyonight)
+
 
 ---
 
