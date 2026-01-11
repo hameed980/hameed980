@@ -68,14 +68,13 @@ I specialize in transforming raw data into **actionable insights** using modern 
 
 ---
 
-## 📊 GitHub Stats & Contributions  
+## 📊 GitHub Activity & Streaks  
 
-![Profile Views](https://komarev.com/ghpvc/?username=hameed980&label=Profile%20Views&color=0e75b6&style=flat)  
-![GitHub Followers](https://img.shields.io/github/followers/hameed980?label=Followers&style=social)  
-![Top Languages](https://img.shields.io/github/languages/top/hameed980?color=blue&style=for-the-badge)  
-![Public Contributions](https://img.shields.io/badge/Public%20Contributions-🔥-brightgreen)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hameed980&theme=tokyonight)](https://github.com/hameed980)  
 
-> ✅ Fully working in **any repo**, no broken images
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hameed980&show_icons=true&theme=tokyonight)](https://github.com/hameed980)  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hameed980&layout=compact&theme=tokyonight)](https://github.com/hameed980)
 
 ---
 
