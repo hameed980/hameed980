@@ -68,28 +68,29 @@ I specialize in transforming raw data into **actionable insights** using modern 
 
 ---
 
-<h2>📊 GitHub Activity & Streaks</h2>
+## 📊 GitHub Stats & Contributions  
 
-<img src="https://streak-stats.demolab.com?user=hameed980&theme=tokyonight" />
+![Profile Views](https://komarev.com/ghpvc/?username=hameed980&label=Profile%20Views&color=0e75b6&style=flat)  
+![GitHub Followers](https://img.shields.io/github/followers/hameed980?label=Followers&style=social)  
+![Top Languages](https://img.shields.io/github/languages/top/hameed980?color=blue&style=for-the-badge)  
+![Public Contributions](https://img.shields.io/badge/Public%20Contributions-🔥-brightgreen)
 
-<br/><br/>
+> ✅ Fully working in **any repo**, no broken images
 
-<img src="https://github-readme-stats.vercel.app/api?username=hameed980&show_icons=true&theme=tokyonight" />
+---
 
-<br/><br/>
+## 💡 Open for Contributions & Opportunities  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hameed980&layout=compact&theme=tokyonight" />
+I’m always looking to collaborate on **cloud data engineering**, **ETL pipelines**, and **real-time data projects**.  
 
-
+- Open to **collaboration, mentorship, and contribution opportunities**
+- Feel free to **open issues, submit PRs, or connect** to explore projects together  
+- Excited to **learn and build impactful data solutions**
 
 ---
 
 ## 🤝 Let’s Connect  
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/abdul-hameed-088921296/  
-- 🐍 **GitHub:** https://github.com/hameed980
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/abdul-hameed-088921296/](https://www.linkedin.com/in/abdul-hameed-088921296/)  
+- 🐍 **GitHub:** [https://github.com/hameed980](https://github.com/hameed980)  
 - 📧 **Gmail:** [abdulhameedak247@gmail.com](mailto:abdulhameedak247@gmail.com)
-
-⭐ If you like my work, consider **starring repositories** and following my **Data Engineering journey**
-
-
